@@ -2,6 +2,12 @@
 
 A powerful Chrome extension for scraping and analyzing social media profiles (Instagram & TikTok), built with React, TypeScript, and Vite.
 
+## Table of Contents
+- [Features](#features)
+- [Cara Install Extension](#-cara-install-extension)
+- [Project Structure](#project-structure)
+- [Tech Stack](#tech-stack)
+
 ## Features
 
 - **Profile Scraping**: Extract profile info from Instagram and TikTok.
